@@ -12,3 +12,5 @@ _start:
 
     mov eax, 1
     int 0x80
+
+    ;gdb -silent a.out
